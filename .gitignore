@@ -1,0 +1,15 @@
+git_push.sh
+
+
+__pycache__/
+*.pyc
+
+
+.env
+venv/
+.envrc
+
+.ipynb_checkpoints/
+
+
+.vscode/
